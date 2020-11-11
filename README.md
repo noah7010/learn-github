@@ -1,3 +1,7 @@
 # learn-github
-homework
-adding another sentence
+
+homework + projects
+
+Avocados Project (Prices of Hass Avocados)
+
+Predicting Churn Project
